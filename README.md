@@ -28,9 +28,20 @@ ArchCam is a powerful screen capture and recording tool designed to enhance your
 
 ## Install
 
-- ``git clone https://github.com/AnonCatalyst/ArchCam && cd ArchCam``
-- ``pip install -r requirements.txt --break-system-packages``
-- ``python3 archcam.py``
+To install ArchCam, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/AnonCatalyst/ArchCam && cd ArchCam
+    ```
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt --break-system-packages
+    ```
+3. Run the application:
+    ```bash
+    python3 archcam.py
+    ```
 
 ## Contributing
 

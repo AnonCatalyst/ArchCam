@@ -2,6 +2,8 @@
 
 ArchCam is a powerful screen capture and recording tool designed to enhance your productivity and creativity on Arch Linux and other Linux distributions. With a user-friendly interface and robust features, ArchCam is your go-to solution for managing screen content.
 
+<img src="img/screenshot.png" alt="ArchCam - Screenshot" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+
 ## Features
 
 - **Full-Screen Capture**: Effortlessly capture high-quality full-screen screenshots with just a click.
